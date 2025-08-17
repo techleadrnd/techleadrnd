@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there, I'm a Tech Lead!
 
-<!--
-**techleadrnd/techleadrnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile — where code meets creativity.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate **Tech Lead and Research Fellow** with a love for building scalable web applications and exploring emerging tech. I thrive in collaborative and innovative environments and enjoy turning ideas into impactful solutions.
+
+- 🧠 Currently learning: Gen AI (Langchain)
+- 💼 Working as: Tech Lead
+- 🎓 Phd in Software Engineering
+- 🌍 Based in Ireland
+
+## 🧰 Tech Stack
+
+```bash
+Languages: JavaScript, Python, TypeScript, HTML/CSS
+Frameworks: React, Node.js, Express, Flask
+Tools: Git, Docker, Firebase, MongoDB, PostgreSQL
