@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm a Tech Lead!
 
-Welcome to my GitHub profile — where code meets creativity.
+Welcome to my GitHub profile where code meets creativity.
 
 ## 🚀 About Me
 
